@@ -17,8 +17,10 @@ class Frame extends JFrame{
         c.setLayout(panels);
 
         panel = new Panel();
+        introductionPanel = new IntroductionPanel();
 
         c.add("Panel", panel);
+        c.add("Introduction Panel", introductionPanel);
     }
 
 }
