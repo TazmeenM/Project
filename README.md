@@ -7,5 +7,18 @@ Instructions:
 
 1. Download this repository as a .zip file and extract it
 2. Run the Batch file
+3. Use the command prompt, since the Java window with the GUI doesn't actually do anything interesting yet
 
 Note: If running the Batch file doesn't work, try running the Main.java file instead.
+
+Image:
+
+![image](https://github.com/user-attachments/assets/cd7f35b6-ecf8-4ffa-99c4-ef954408bb13)
+
+Video:
+
+https://github.com/user-attachments/assets/c01f624e-8f59-43e0-9a87-0f8ed39786fa
+
+
+
+
